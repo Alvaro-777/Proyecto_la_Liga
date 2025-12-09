@@ -1,4 +1,4 @@
-# Ejercicio-Python
+# PROYECTO PROGRAMACIÓN ESTRUCTURADA Y MODULAR (LIGA)
 Ejercicio de 7 funciones, realizado por Álvaro Colmenero y Alejandro Medel
 
 Partiendo del fichero csv liga.csv con los resultados de las jornadas de liga 2015-2016, realizar un programa que muestre la tabla de clasificación al final de la liga, en el que debe aparecer el orden en que ha quedado cada equipo, los partidos ganados, los partidos empatados y los partidos perdidos, y por último los puntos conseguidos. Para realizar este programa vamos a construir varias funciones:
