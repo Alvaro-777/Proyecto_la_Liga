@@ -146,7 +146,6 @@ def clasificacion(datos: list[tuple[str, int, int, int, int]]) -> list[tuple[str
 
 #---------------------------------------------
 
-datosliga = leerPartidos()
-impClasificacion(datosliga)
+impClasificacion(leerPartidos())
 
 
